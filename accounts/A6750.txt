@@ -1,0 +1,8 @@
+Account A6750
+Name: John Coogan
+Date of Birth: 20/06/1995
+Gender: Male
+Provisional handicap: 0
+Fees paid: 3000
+
+
